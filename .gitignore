@@ -1,0 +1,6 @@
+conf/settings.py
+conf/__pycache__
+models/__pycache__
+.vscode/
+venv/
+*.pyc

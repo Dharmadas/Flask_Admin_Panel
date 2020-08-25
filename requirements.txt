@@ -1,0 +1,7 @@
+Flask
+Flask-Dance
+Flask-Login
+Flask-Sqlalchemy
+Flask-Wtf
+flask-mysql
+waitress
